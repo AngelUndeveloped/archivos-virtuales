@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="d3af1D3d-K4XFnF8oWUl" name="General Problem">
-        <mxGraphModel dx="875" dy="385" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="735" dy="293" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -116,7 +116,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="j9Br4l4qTCPcwCW34zse" name="Proposed Solution 1">
-        <mxGraphModel dx="1050" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1725" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -335,6 +335,39 @@
                 </mxCell>
                 <mxCell id="DcxwySudYgjorcFeEheP-11" value="Renew File Lifespan" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=#66B2FF;strokeWidth=3;" vertex="1" parent="1">
                     <mxGeometry x="450" y="220.25" width="80" height="32" as="geometry"/>
+                </mxCell>
+                <mxCell id="5_7pTR6vLVvzAOEBu-vm-1" value="Process Bar" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;rounded=1;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="-25" y="191" width="296" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="5_7pTR6vLVvzAOEBu-vm-2" value="Step 1" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=1;strokeColor=#66B2FF;strokeWidth=3;fillColor=#66B2FF;gradientColor=none;" vertex="1" parent="5_7pTR6vLVvzAOEBu-vm-1">
+                    <mxGeometry x="10" y="33" width="100" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="5_7pTR6vLVvzAOEBu-vm-3" value="Step 2" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=1;strokeColor=#66B2FF;strokeWidth=3;fillColor=#66B2FF;gradientColor=none;" vertex="1" parent="5_7pTR6vLVvzAOEBu-vm-1">
+                    <mxGeometry x="98" y="33" width="100" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="5_7pTR6vLVvzAOEBu-vm-4" value="Step 3" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=1;strokeColor=#66B2FF;strokeWidth=3;fillColor=#66B2FF;gradientColor=none;" vertex="1" parent="5_7pTR6vLVvzAOEBu-vm-1">
+                    <mxGeometry x="186" y="33" width="100" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="5_7pTR6vLVvzAOEBu-vm-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.tape;rounded=1;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="-20" y="296" width="270" height="54" as="geometry"/>
+                </mxCell>
+                <mxCell id="5_7pTR6vLVvzAOEBu-vm-6" value="Step 2" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=1;strokeColor=#66B2FF;strokeWidth=3;fillColor=#66B2FF;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-12.5" y="390" width="100" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="5_7pTR6vLVvzAOEBu-vm-7" value="Step 2" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=1;strokeColor=#66B2FF;strokeWidth=3;fillColor=#66B2FF;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="306.5" y="390" width="100" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="5_7pTR6vLVvzAOEBu-vm-8" value="Step 2" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=1;strokeColor=#66B2FF;strokeWidth=3;fillColor=#66B2FF;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="390" width="100" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="5_7pTR6vLVvzAOEBu-vm-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.tape;rounded=1;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="-12.5" y="460" width="92.5" height="54" as="geometry"/>
+                </mxCell>
+                <mxCell id="5_7pTR6vLVvzAOEBu-vm-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.tape;rounded=1;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="312" y="450" width="92.5" height="54" as="geometry"/>
+                </mxCell>
+                <mxCell id="5_7pTR6vLVvzAOEBu-vm-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.tape;rounded=1;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="471" y="450" width="92.5" height="54" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
